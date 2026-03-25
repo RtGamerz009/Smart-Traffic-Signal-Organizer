@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For page transitions, smooth card reveals, and layout animations."
+  "recharts": "For the analytics dashboard charts (queue length, wait time, etc)."
+  "clsx": "Utility for constructing className strings conditionally."
+  "tailwind-merge": "Utility to merge tailwind classes without conflicts."
+
+images:
+  - path: "artifacts/traffic-optimizer/public/images/hero-bg.png"
+    description: "Abstract dark cyberpunk background, subtle glowing grid lines, deep space neon blue and green light leaks, highly technical system monitor aesthetic, 4k resolution, dark mode"
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a purely client-side simulation. No backend APIs are needed.
+  - The application is forced into a dark/cyberpunk theme for the premium aesthetic.
+  - Tailwind v4 is used with CSS-native configuration.
